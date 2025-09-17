@@ -35,6 +35,6 @@ public class Atividade01 {
         System.out.println("O maior valor digitado é: " + maior);
         System.out.println("O menor valor digitado é: " + menor);
 
-
+        scanner.close();
     }
 }

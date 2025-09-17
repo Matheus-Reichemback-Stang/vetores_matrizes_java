@@ -30,5 +30,7 @@ public class Atividade03 {
             }
             System.out.println(" ");
         }
+
+        scanner.close();
     }
 }
